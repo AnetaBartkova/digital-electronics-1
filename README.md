@@ -1,2 +1,8 @@
 # digital-electronics-1
-## dig
+## digital
+### digital
+#### digital
+
+*digital*
+**digital**
+
